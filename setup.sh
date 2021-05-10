@@ -11,6 +11,7 @@ echo "
 "
 sleep 2
 clear
+sudo apt install figlet
 figlet -e big "     SETUP"
 #install 
 #$1 apt or sudo
