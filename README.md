@@ -1,2 +1,15 @@
 # Evil-FBF
-belive me when i say the evil better than goodness , Evil Facebook Framework is a completely tools for phishing and guessing for selected / randomly accounts its all for free .
+Trust me when I say evil is better than good,
+Evil Facebook Framework is complete phishing and guessing tools for selected / spam accounts, all for free.
+
+# Installation 
+
+- git clone https://github.com/EvilDem0n/Evil-FBF/
+- cd Evil-FBF
+- chmod +x setup.sh
+- ./setup.sh
+
+# Run it
+
+$ FBF --help
+$ FBF [--Argument=Value ...]
