@@ -11,6 +11,7 @@ echo "
 "
 sleep 2
 clear
+pkg install figlet
 figlet -f big "     SETUP"
 #install 
 
